@@ -26,7 +26,7 @@ public class Probando {
          float  preciodehora = 16 , salariot; 
        
          
-          numHoras = Integer.parseInt(JOptionPane.showInputDialog("Digita cuantas horas haz trabajado"));
+          numHoras = Integer.parseInt(JOptionPane.showInputDialog("Digita cuantas horas tienes trabajadas"));
           
           //calcularemos su salario total 
           
